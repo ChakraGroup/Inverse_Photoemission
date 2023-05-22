@@ -1,0 +1,2 @@
+idx_initial   idx_final   delta_omega_ij !remember transition eng must be +ve
+301               42               1.0e0   
